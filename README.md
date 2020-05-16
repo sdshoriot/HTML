@@ -1,7 +1,7 @@
 # Table of Contents
 
 
-1. Headings
+1. [Headings](https://github.com/sdshoriot/HTML/blob/master/1.%20Headings.md)
 2. Paragraphs
 3. Styles
 4. Text Formatting
