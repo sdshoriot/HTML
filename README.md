@@ -1,7 +1,9 @@
-> HTML সম্পর্কে আমি যা জানি, ধীরে ধীরে তা এই রিপোজিটরিতে সংযুক্ত করতে থাকবো ইনশা আল্লাহ।
+> HTML এর যেই টপিক গুলো আমি নোট করেছি, নিচে তার একটা লিষ্ট দেওয়া হলো:
 
-
-# Table of contents
+<h1><p align="center">Table of contents</p></h1> 
 
 1. Headings
 2. Paragraphs
+
+
+> Please inbox **[me](https://www.facebook.com/shoriot)**, if you've any questions.
