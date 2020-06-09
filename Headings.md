@@ -2,7 +2,7 @@
 
 ## 1. Headings
 
-```HTM
+```HTML
 <h1> to <h6>	Defines HTML headings
 
 Example:
