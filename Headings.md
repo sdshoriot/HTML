@@ -2,11 +2,11 @@
 
 ## 1. Headings
 
+* HTML headings are defined with the `<h1>` to `<h6>` tags.
+
+* `<h1>` defines the most important heading. `<h6>` defines the least important heading.
+
 ```HTML
-HTML headings are defined with the <h1> to <h6> tags.
-
-<h1> defines the most important heading. <h6> defines the least important heading.
-
 Example:
 
 <h1>SD Shoriot</h1>
@@ -23,7 +23,6 @@ Example:
 with the `style` attribute, using the CSS `font-size` property.
 
 ```HTML
-
 Example:
 
 <h1 style="font-size:70px;">SD Shoriot</h1>
