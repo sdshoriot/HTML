@@ -19,9 +19,10 @@ Example:
 
 ## 2. Bigger Headings
 
-```HTML
-Each HTML heading has a default size. However, you can specify the size for any heading 
+* Each HTML heading has a default size. However, you can specify the size for any heading 
 with the `style` attribute, using the CSS `font-size` property.
+
+```HTML
 
 Example:
 
