@@ -2,6 +2,7 @@
 
 
 1. [Headings](https://github.com/sdshoriot/HTML/blob/master/Headings.md)
+2. [Paragraphs](https://github.com/sdshoriot/HTML/blob/master/Paragraphs.md)
 
 
 > Please inbox **[me](https://www.facebook.com/shoriot)**, if you've any questions.
