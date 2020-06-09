@@ -9,12 +9,12 @@
 ```HTML
 Example:
 
-<h1>SD Shoriot</h1>
-<h2>SD Shoriot</h2>
-<h3>SD Shoriot</h3>
-<h4>SD Shoriot</h4>
-<h5>SD Shoriot</h5>
-<h6>SD Shoriot</h6>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
 ```
 
 ## 2. Bigger Headings
