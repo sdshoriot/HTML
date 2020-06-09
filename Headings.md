@@ -1,4 +1,4 @@
-<h1><p align="center">1. Headings</p></h1>
+<h1><p align="center">Headings</p></h1>
 
 ## 1. Headings
 
