@@ -1,5 +1,7 @@
 <h1 style="text-align:center;">Styles</h1>
 
+<h1 style="text-align:center;">Centered Heading</h1>
+
 ## 1. Style Attribute
 
 * The HTML `style` attribute is used to add styles to an element, such as 
