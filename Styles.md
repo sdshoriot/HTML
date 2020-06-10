@@ -8,7 +8,7 @@
 
 * The HTML `style` attribute has the following syntax:
 
-`<tagname style="property:value;">`
+<tagname style="property:value;">
 
 * The **property** is a CSS property. The **value** is a CSS value.
 
