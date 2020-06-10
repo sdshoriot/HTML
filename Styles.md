@@ -1,6 +1,5 @@
-<h1 style="text-align:center;">Styles</h1>
+<h1><p align="center">Styles</p></h1>
 
-<h1 style="text-align:center;">Centered Heading</h1>
 
 ## 1. Style Attribute
 
