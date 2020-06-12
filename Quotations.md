@@ -3,7 +3,7 @@
 * In this chapter we will go through the `<blockquote>`, `<q>`, `<abbr>`, `<address>`, 
 `<cite>`, and `<bdo>` HTML elements.
 
-## 1. <blockquote> 
+## 1. `<blockquote>` 
 
 * The HTML `<blockquote>` element defines a section that is quoted from another source.
 
