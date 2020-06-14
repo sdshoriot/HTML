@@ -6,6 +6,7 @@
 3. [Styles](https://github.com/sdshoriot/HTML/blob/master/Styles.md)
 4. [Text Formatting](https://github.com/sdshoriot/HTML/blob/master/Formatting.md)
 5. [Quotations](https://github.com/sdshoriot/HTML/blob/master/Quotations.md)
+6. [Comments](https://github.com/sdshoriot/HTML/blob/master/Comments.md)
 
 
 > Please inbox **[me](https://www.facebook.com/shoriot)**, if you've any questions.
